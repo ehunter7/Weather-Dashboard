@@ -1,0 +1,28 @@
+#forecast {
+    height: 250px;
+
+}
+.forecastDay {
+display: inline-block;
+width: 125px;
+height: 160px;
+background-color:dodgerblue;
+margin: 8px;
+margin-left: 12px;
+padding: 2px;
+border-radius: 5px;
+padding: 5px;
+color: white;
+}
+#searchField {
+    height: 457px;
+}
+.storedCity {
+    text-align: center;
+    border: lightgray solid;
+    border-radius: 5%;
+    margin: 2px;
+    padding: 2px;
+    width: 100%;
+}
+
