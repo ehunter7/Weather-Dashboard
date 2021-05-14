@@ -19,7 +19,7 @@
 
 #### Links
 
-    * https://ehunter7.github.io/Weather-Dashboard/
+    * [Deployed Site](https://ehunter7.github.io/Weather-Dashboard/)
 
     * https://github.com/ehunter7/Weather-Dashboard
 
